@@ -23,7 +23,7 @@ public class EmprestimoBD {
     // Criação de novo emprestimo
     public boolean criarEmprestimo(Emprestimo emprestimo) {
         emprestimos.add(emprestimo);
-        return true;
+        return true;//enserindo
     }
 
     // Add novos livros em um emprestimo
